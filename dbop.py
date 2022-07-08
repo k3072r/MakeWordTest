@@ -17,7 +17,6 @@ class WordList:
 
     #idがa~bのレコードのリストを返す
     #レコードの数はnumとする
-    #ともみは…ともみは…ともみは…
     #flg=trueならばシャッフルする
     #返すレコードからはidフィールドを削除する．すなわち，{eng, jap}のリスト．
     def select(self, a, b, num, flg):
